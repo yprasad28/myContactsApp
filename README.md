@@ -1,6 +1,5 @@
 # MycontactsApp (backend-node.js) 
 
-# Rolled out an innovative e-commerce platform patterned after Amazon and Flipkart. 
 
 ● Developed a contacts management app with a Node.js and MongoDB backend, implementing CRUD 
 operations for contact data. 
